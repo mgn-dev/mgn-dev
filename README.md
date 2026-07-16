@@ -1,4 +1,4 @@
-# Hi, I'm Mojalefa Gideon Nkwana.
+# Mojalefa Gideon Nkwana.
 ### Software Engineer & CyberSecurity Practitioner
 
 I bridge the gap between software development and security. I build tools to automate defenses, analyze vulnerabilities, and construct secure systems.
@@ -13,9 +13,9 @@ I bridge the gap between software development and security. I build tools to aut
 ## 🛠️ Technical Toolkit
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | Python, Bash, Go, PowerShell |
+| **Languages** | C, C++, Python, Bash, JavaScript, and more |
 | **Defensive / Ops** | Wazuh, Elastic, Docker, Wireshark, Nmap |
-| **Infrastructure** | Linux, AWS, Git, GitHub Actions |
+| **Infrastructure** | Linux, Git, GitHub Actions |
 
 ## 🎓 Certifications & Labs
 * **Certifications:** CompTIA Security+
