@@ -1,4 +1,4 @@
-# Hi, I'm Mojalefa Gideon Nkwana! 👋
+# Hi, I'm Mojalefa Gideon Nkwana.
 ### Software Engineer & CyberSecurity Practitioner
 
 I bridge the gap between software development and security. I build tools to automate defenses, analyze vulnerabilities, and construct secure systems.
