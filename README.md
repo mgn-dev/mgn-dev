@@ -13,7 +13,7 @@ I bridge the gap between software development and security. I build tools to aut
 ## 🛠️ Technical Toolkit
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | C, C++, Python ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white), Bash, JavaScript, and more |
+| **Languages** | C, C++, Python, Bash, JavaScript, and more |
 | **Defensive / Ops** | Wazuh, Elastic, Docker, Wireshark, Nmap |
 | **Infrastructure** | Linux, Git, GitHub Actions |
 
